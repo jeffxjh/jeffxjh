@@ -1,28 +1,46 @@
 ### Hi there, I'm [jeffxjh!](https://jeffxjh.top) 👋
-**Languages and Tools:**  
+## 👨‍💻 Languages and tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## 👨‍💻 Languages and tools
+
+<p align="center">
+    
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajava">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+   </a>
+  <a></a>
+  <a></a>
+<a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3latex"></a>
+  <a><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+</p>
 
 
-
-
+## 📊 More Stats
 
   <a href="https://github.com/jeffxjh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=wakapi.jeffxjh.top&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
 </a>
-
-  <a href="https://github.com/jeffxjh/github-readme-stats">
+<div><a href="https://github.com/jeffxjh/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeffxjh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-
-  <a href="https://github.com/jeffxjh/github-readme-stats">
+</a></div>
+<div><a href="https://github.com/jeffxjh/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeffxjh&layout=compact&theme=material-palenight" />
-</a>
+</a></div>
+
+
+
+  
 
 
 
