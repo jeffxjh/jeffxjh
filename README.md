@@ -56,16 +56,16 @@
 
 <div>
 	<a href="https://github.com/jeffxjh/github-readme-stats">
-	  <img height="250" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeffxjh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-	</a>
-</div>
-<div>
-	<a href="https://github.com/jeffxjh/github-readme-stats">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 	  <img height="250" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeffxjh&layout=compact&theme=material-palenight" />
 	</a>
 </div>
 
+<div>
+	<a href="https://github.com/jeffxjh/github-readme-stats">
+	  <img height="250" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeffxjh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+	</a>
+</div>
 
   
 
