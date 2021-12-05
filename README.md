@@ -28,7 +28,7 @@
   <a></a>
   <a></a>
 <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3latex"></a>
-  <a><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23121011.svg?&style=for-the-badge&logo=jetbrains&logoColor=white"></a>
   <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
