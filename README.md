@@ -48,10 +48,10 @@
 
 
 ## 📊 More Stats
-<div> 
-    <a href="https://github.com/jeffxjh/github-readme-stats">
-     <img height="280" width="400" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=wakapi.jeffxjh.top&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
-    </a>
+<div>
+	<a href="https://github.com/jeffxjh/github-readme-stats">
+	  <img height="280" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeffxjh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+	</a>
 </div>
 
 <div>
@@ -61,12 +61,11 @@
 	</a>
 </div>
 
-<div>
-	<a href="https://github.com/jeffxjh/github-readme-stats">
-	  <img height="280" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jeffxjh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-	</a>
+<div> 
+    <a href="https://github.com/jeffxjh/github-readme-stats">
+     <img height="280" width="400" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=wakapi.jeffxjh.top&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
+    </a>
 </div>
-
   
 
 
