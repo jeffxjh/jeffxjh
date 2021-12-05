@@ -57,13 +57,13 @@
 <div>
 	<a href="https://github.com/jeffxjh/github-readme-stats">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	  <img height="280" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeffxjh&layout=compact&theme=material-palenight" />
+	  <img  align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeffxjh&layout=compact&theme=material-palenight" />
 	</a>
 </div>
 
 <div> 
     <a href="https://github.com/jeffxjh/github-readme-stats">
-     <img height="280" width="400" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=wakapi.jeffxjh.top&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
+     <img  align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=wakapi.jeffxjh.top&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
     </a>
 </div>
   
