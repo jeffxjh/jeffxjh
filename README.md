@@ -12,7 +12,15 @@
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajava">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
   </a>
+    
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
+     <img alt="JavaScript" src="https://img.shields.io/badge/go-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E">
+  </a>
   
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
+     <img alt="JavaScript" src="https://img.shields.io/badge/rust-%23323330.svg?&style=for-the-badge&logo=rust&logoColor=%23F7DF1E">
+  </a>
+    
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
@@ -21,7 +29,7 @@
   <a></a>
 <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3latex"></a>
   <a><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 
