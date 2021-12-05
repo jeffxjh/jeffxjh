@@ -14,7 +14,7 @@
   </a>
     
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/go-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E">
+     <img alt="JavaScript" src="https://img.shields.io/badge/go-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
   </a>
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
