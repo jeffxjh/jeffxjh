@@ -57,7 +57,7 @@
 <div>
 	<a href="https://github.com/jeffxjh/github-readme-stats">
 	  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-	  <img  align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeffxjh&layout=compact&theme=material-palenight" />
+	  <img height="280" width="400" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jeffxjh&layout=compact&theme=material-palenight" />
 	</a>
 </div>
 
