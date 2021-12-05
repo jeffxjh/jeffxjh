@@ -6,30 +6,25 @@
 <p align="center">
     
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   </a>
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajava">
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white">
   </a>
     
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/go-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
+     <img alt="JavaScript" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
   </a>
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/rust-%23323330.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
+     <img alt="JavaScript" src="https://img.shields.io/badge/rust-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
   </a>
     
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
-   </a>
-  <a></a>
-  <a></a>
-<a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3latex"></a>
-  <a><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-%23121011.svg?&style=for-the-badge&logo=jetbrains&logoColor=white"></a>
-  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+
 </p>
 
 ### 🛠 技术栈 | Tech Stack
@@ -44,10 +39,12 @@
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=vscode)
+![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
+![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
 
 
 ## 📊 More Stats
