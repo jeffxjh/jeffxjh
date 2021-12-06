@@ -5,24 +5,25 @@
 
 <p align="center">
     
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  </a>
+
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajava">
     <img alt="Java" src="https://img.shields.io/badge/java-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white">
   </a>
-    
+   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
+     <img alt="go" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
   </a>
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/rust-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
+     <img alt="rust" src="https://img.shields.io/badge/rust-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
   </a>
     
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   </a>
 
 </p>
@@ -30,7 +31,9 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+
 
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
