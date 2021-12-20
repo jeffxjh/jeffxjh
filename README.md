@@ -25,7 +25,10 @@
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   </a>
-
+	
+  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
+    <img alt="Perl" src="https://img.shields.io/badge/perl-%2314354C.svg?&style=for-the-badge&logo=perl&logoColor=%#0B7261">
+  </a>
 </p>
 
 ### 🛠 技术栈 | Tech Stack
