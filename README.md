@@ -8,13 +8,13 @@
 
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajava">
-    <img alt="Java" src="https://img.shields.io/badge/java-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=%#BC0000">
   </a>
    <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%#FCDC00">
   </a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
-     <img alt="go" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=%#007D9C">
+     <img alt="go" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white">
   </a>
   
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
@@ -23,11 +23,11 @@
     
 
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=%#3674A9">
   </a>
 	
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Perl" src="https://img.shields.io/badge/perl-%2314354C.svg?&style=for-the-badge&logo=perl&logoColor=%#0B7261">
+    <img alt="Perl" src="https://img.shields.io/badge/perl-%2314354C.svg?&style=for-the-badge&logo=perl&logoColor=%#004467">
   </a>
 </p>
 
