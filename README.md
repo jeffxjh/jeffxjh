@@ -52,9 +52,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker)
-![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown)
-![VsCode](https://img.shields.io/badge/-VsCode-white?style=flat&logo=visual-studio-code)
-![JetBrains](https://img.shields.io/badge/-JetBrains-white?style=flat&logo=jetbrains)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![VsCode](https://img.shields.io/badge/-VsCode-333333?style=flat&logo=visual-studio-code)
+![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
 
 
 ## 📊 More Stats
