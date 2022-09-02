@@ -20,7 +20,7 @@
      <img alt="go" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white">
   </a>
    <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ac#">
-     <img alt="c#" src="https://img.shields.io/badge/c#-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white">
+     <img alt="c#" src="https://img.shields.io/badge/.net-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white">
   </a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
      <img alt="rust" src="https://img.shields.io/badge/rust-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
