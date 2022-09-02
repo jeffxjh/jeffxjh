@@ -13,18 +13,21 @@
    <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%2314354C.svg?&style=for-the-badge&logo=javascript&logoColor=%#FCDC00">
   </a>
+   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=%#3674A9">
+  </a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
      <img alt="go" src="https://img.shields.io/badge/go-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white">
   </a>
-  
+   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ac#">
+     <img alt="c#" src="https://img.shields.io/badge/c#-%2314354C.svg?&style=for-the-badge&logo=go&logoColor=white">
+  </a>
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Ajavascript">
      <img alt="rust" src="https://img.shields.io/badge/rust-%2314354C.svg?&style=for-the-badge&logo=rust&logoColor=%#0B7261">
   </a>
     
 
-  <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=%#3674A9">
-  </a>
+
 	
   <a href="https://github.com/search?q=user%3Alrusso96+is%3Arepo+language%3Apython">
     <img alt="Perl" src="https://img.shields.io/badge/perl-%2314354C.svg?&style=for-the-badge&logo=perl&logoColor=%#004467">
