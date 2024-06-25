@@ -76,7 +76,7 @@
 
 <div> 
     <a href="https://github.com/jeffxjh/github-readme-stats">
-     <img height="280" width="400" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=wakapi.jeffxjh.top&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
+     <img height="280" width="400" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xujh&api_domain=xujh.myds.me:30000&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Anurag's github stats" />
     </a>
 </div>
   
